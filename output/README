@@ -1,0 +1,8 @@
+This repository is there to track the various data and analyses related to the
+siRNA seed match grpah analysis.
+
+Currently this includes (* = will include):
+ - 3' UTR graphs
+	- alignment of 6/7/8-mer seeds against human 3' UTR sequences
+	- parsing of resulting alignments
+	- graph analysis 
